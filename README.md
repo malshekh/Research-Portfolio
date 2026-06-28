@@ -13,7 +13,7 @@ Contents include:
 ## Repository Navigation
 
 ### Proteins
-- [TDP-43](Proteins/TDP-43/README.md)
+- [TDP-43](Proteins/TDP43/README.md)
 - [Tau](Proteins/Tau/README.md)
 
 ### Laboratory Methods
