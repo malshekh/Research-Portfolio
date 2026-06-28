@@ -9,3 +9,16 @@ Contents include:
 - pyMOL visualizations
 - Experimental workflows
 - Research documentation
+
+## Repository Navigation
+
+### Proteins
+- [TDP-43](Proteins/TDP-43/README.md)
+- [Tau](Proteins/Tau/README.md)
+
+### Laboratory Methods
+- [Protocols](protocols/README.md)
+
+### References
+- [References and Resources](ReferencesandResources/README.md)
+  
