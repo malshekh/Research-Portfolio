@@ -1,7 +1,7 @@
 # TDP-43 Protein Sequence
 
 ## Overview
-This section contains the canonical amino acid sequence of the human TAR DNA-binding protein 43 (TDP-43). 
+This section contains the canonical amino acid sequence of the human TAR DNA-binding protein 43 (TDP-43) [TDP43_HUMAN.fasta](TDP43_HUMAN.fasta).
 The sequence was obtained from UniProt [Q13148-1](https://www.uniprot.org/uniprotkb/Q13148/entry#Q13148-1). 
 
 ## Protein Information and quick links
