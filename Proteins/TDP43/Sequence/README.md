@@ -12,3 +12,11 @@ The sequence was obtained from UniProt [Q13148-1](https://www.uniprot.org/unipro
 | Length | 414 AA |
 | AlphaFold | [AF-Q13148-F1](https://alphafold.ebi.ac.uk/entry/Q13148) |
 | NCBI Gene | [TARDBP](https://www.ncbi.nlm.nih.gov/gene/) | 
+
+
+## Navigation Link
+- [Sequence](Sequence/README.md)
+- [Domain Architecture](Domains.md)
+- [Isoforms](Isoforms.md)
+- [Workflow](Workflow.md)
+
